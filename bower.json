@@ -1,0 +1,20 @@
+{
+  "name": "socket-io-html",
+  "authors": [
+    "Pieter van Dorst <pieter.vandorst@infosupport.com>"
+  ],
+  "description": "HTML wrapper for socket-io",
+  "main": "socket-io-html.html",
+  "keywords": [
+    "socket-io"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
