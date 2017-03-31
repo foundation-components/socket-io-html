@@ -1,7 +1,8 @@
 {
   "name": "socket-io-html",
-  "version": "1.0.0",
+  "version": "1.7.3",
   "authors": [
+    "Jack Sierkstra <jacksierkstra@gmail.com>",
     "Pieter van Dorst <pieter.vandorst@infosupport.com>"
   ],
   "description": "HTML wrapper for socket-io",
